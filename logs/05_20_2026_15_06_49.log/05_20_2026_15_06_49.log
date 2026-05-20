@@ -1,4 +1,0 @@
-[2026-05-20 15:06:53,436]10 root - INFO- The execution has started
-[2026-05-20 15:06:53,437]18 root - INFO- Reading sql database stared.
-[2026-05-20 15:06:53,799]27 root - INFO- Reading completed mysql database.
-[2026-05-20 15:06:53,814]36 root - INFO- Data Ingestion is completed. 

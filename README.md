@@ -1,1 +1,6 @@
 Data science Project
+
+MLFLOW_TRACKING_URI=https://dagshub.com/Niki-023/MLPROJECT.mlflow \
+MLFLOW_TRACKING_USERNAME=Niki-023 \
+MLFLOW_TRACKING_PASSWORD=d9d3849b05376599327d0289e4544f220c31533f \
+python script.py
